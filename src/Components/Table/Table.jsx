@@ -13,7 +13,7 @@ const Table = () => {
         return (
           <tr key={i} style={i % 2 !== 0 ? trStyle : null}>
             <td className='table-data'>{item.title}</td>
-            <td className='table-data center'>{item.date}</td>
+            <td className='table-data center date'>{item.date}</td>
             <td className='table-data center'>
               <button className='table-button'>{item.link}</button>
             </td>
