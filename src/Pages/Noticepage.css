@@ -1,0 +1,19 @@
+.notice-main {
+    padding-bottom: 100px;
+}
+
+.notice-heading {
+    text-align: center;
+    position: relative;
+}
+
+.notice-heading h1 {
+    margin: 50px;
+    color: rgba(30, 179, 166, 1);
+}
+
+.notice-svg {
+    position: absolute;
+    top: 10px;
+    left: 53%;
+}

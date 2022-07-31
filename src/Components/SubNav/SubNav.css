@@ -1,0 +1,63 @@
+.sub-nav {
+    width: 98%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+}
+
+.logo-text {
+    color: #fff;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.contact-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.number {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    align-items: center;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.39);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.google-play-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

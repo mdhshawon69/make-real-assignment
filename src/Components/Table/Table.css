@@ -1,0 +1,27 @@
+.table-container {
+    width: 80%;
+    border: 1px solid rgba(123, 123, 123, 1);
+    border-collapse: collapse;
+    margin: auto;
+    border-radius: 6px;
+}
+
+.table-data {
+    border: .5px solid rgba(123, 123, 123, 1);
+    padding: 15px 25px;
+    color: rgba(53, 53, 53, 1);
+    font-weight: 400;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.table-button {
+    padding: 8px 20px;
+    background-color: rgba(30, 179, 166, 1);
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+}
